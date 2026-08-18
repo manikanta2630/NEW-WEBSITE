@@ -10,7 +10,3 @@ where.?
 here
 happy yesterday
 but not today
-....
-......
-mmmmm.
-....m
